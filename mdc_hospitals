@@ -1,0 +1,977 @@
+mdchospitals = {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2931169942082,
+                    25.7056214850325
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "FOLIO": "0940250270010",
+                "NAME": "Larkin Community Hospital",
+                "ADDRESS": "7031 SW 62 Avenue",
+                "CITY": "SOUTH MIAMI",
+                "ZIPCODE": 33143,
+                "PHONE": "3052847500",
+                "BED": 146,
+                "EROOM": "Y",
+                "LAT": 25.70562,
+                "LON": -80.29311,
+                "POINT_X": 888922.750044078,
+                "POINT_Y": 499320.312424906,
+                "GlobalID": "5528e38a-33de-425a-a9c1-02c1fcc38975"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3164613446134,
+                    25.7469248855545
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "FOLIO": "3040140270020",
+                "NAME": "West Gables Rehabilitation Hospital",
+                "ADDRESS": "2525 SW 75 Avenue",
+                "CITY": "Miami",
+                "ZIPCODE": 33155,
+                "PHONE": "3052626800",
+                "BED": 90,
+                "EROOM": "N",
+                "LAT": 25.74692,
+                "LON": -80.31647,
+                "POINT_X": 881158.187489245,
+                "POINT_Y": 514291.906169325,
+                "GlobalID": "ba1fc0ac-d547-481c-8124-d11d59c1dfd8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4914324225549,
+                    25.4189397852925
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "FOLIO": "3078360000250",
+                "NAME": "South Florida Evaluation & Treatment Center ",
+                "ADDRESS": "18680 SW 376TH STREET",
+                "CITY": "Miami",
+                "ZIPCODE": 33034,
+                "PHONE": "7863496000",
+                "BED": 249,
+                "EROOM": "N",
+                "LAT": 25.41894,
+                "LON": -80.49143,
+                "POINT_X": 824021.276500829,
+                "POINT_Y": 394827.516489655,
+                "GlobalID": "5e52f722-c9b7-46c4-9cd3-479b2347b52f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2787835689596,
+                    25.7636491133535
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "FOLIO": "0341070240010",
+                "NAME": "Kindred Hospital South Florida - Coral Gables",
+                "ADDRESS": "5190 SW 8 Street",
+                "CITY": "CORAL GABLES",
+                "ZIPCODE": 33134,
+                "PHONE": "3054481585",
+                "BED": 55,
+                "EROOM": "N",
+                "LAT": 25.76364,
+                "LON": -80.27878,
+                "POINT_X": 893527.187685579,
+                "POINT_Y": 520436.562515154,
+                "GlobalID": "9e1a5f94-323e-4025-9f38-0428eef8bdbd"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3446883763543,
+                    25.6295558628602
+                ]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "FOLIO": "3050210490010",
+                "NAME": "Jackson South  Medical Center",
+                "ADDRESS": "9333 SW 152 Street",
+                "CITY": "Miami",
+                "ZIPCODE": 33157,
+                "PHONE": "3052565331",
+                "BED": 262,
+                "EROOM": "Y",
+                "LAT": 25.62955,
+                "LON": -80.34469,
+                "POINT_X": 872078.343444247,
+                "POINT_Y": 471586.411527991,
+                "GlobalID": "c09a8418-41d6-4f1d-82be-4e919edf92ef"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2954421611503,
+                    25.7412201629082
+                ]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "FOLIO": "3040130090140",
+                "NAME": "Nicklaus Childrens Hospital",
+                "ADDRESS": "3100 SW 62nd Ave",
+                "CITY": "Miami",
+                "ZIPCODE": 33155,
+                "PHONE": "3056666511",
+                "BED": 299,
+                "EROOM": "Y",
+                "LAT": 25.74122,
+                "LON": -80.29544,
+                "POINT_X": 888088.059456244,
+                "POINT_Y": 512254.877106905,
+                "GlobalID": "8173df6d-8a6c-4d14-bc9b-44929d01b493"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2147485688963,
+                    25.860406947114
+                ]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "FOLIO": "3031020310010",
+                "NAME": "North Shore Medical Center - Steward Health",
+                "ADDRESS": "1100 NW 95TH ST",
+                "CITY": "Miami",
+                "ZIPCODE": 33150,
+                "PHONE": "3058356000",
+                "BED": 337,
+                "EROOM": "Y",
+                "LAT": 25.8604,
+                "LON": -80.21475,
+                "POINT_X": 914392.660718329,
+                "POINT_Y": 555725.315428324,
+                "GlobalID": "104d4f8a-54c0-49c7-86f9-e88767a2a846"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.273895839092,
+                    25.7247418549225
+                ]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "FOLIO": "0341190030010",
+                "NAME": "Doctors Hospital",
+                "ADDRESS": "5000 University Drive",
+                "CITY": "CORAL GABLES",
+                "ZIPCODE": 33146,
+                "PHONE": "7863083000",
+                "BED": 281,
+                "EROOM": "Y",
+                "LAT": 25.72474,
+                "LON": -80.27389,
+                "POINT_X": 895213.687593412,
+                "POINT_Y": 506304.124900825,
+                "GlobalID": "0bb55258-c36f-4a5a-ad11-665a00605496"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.456284646796,
+                    25.6780808732981
+                ]
+            },
+            "properties": {
+                "OBJECTID": 9,
+                "FOLIO": "3059050290040",
+                "NAME": "West Kendall Baptist Hospital",
+                "ADDRESS": "9555 SW 162 Ave",
+                "CITY": "Miami",
+                "ZIPCODE": 33196,
+                "PHONE": "7864672000",
+                "BED": 203,
+                "EROOM": "Y",
+                "LAT": 25.67808,
+                "LON": -80.45629,
+                "POINT_X": 835236.609713163,
+                "POINT_Y": 489056.328031659,
+                "GlobalID": "ed76e80a-f560-411d-bf14-02bc92c34377"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3409250946772,
+                    25.5748060356681
+                ]
+            },
+            "properties": {
+                "OBJECTID": 10,
+                "FOLIO": "3660090010060",
+                "NAME": "Encompass Health Rehabilitation Hospital of Miami ",
+                "ADDRESS": "20601 Old Cutler Road",
+                "CITY": "cutler bay",
+                "ZIPCODE": 33189,
+                "PHONE": "3052513800",
+                "BED": 60,
+                "EROOM": "N",
+                "LAT": 25.5748,
+                "LON": -80.34092,
+                "POINT_X": 873417.211501412,
+                "POINT_Y": 451693.697704576,
+                "GlobalID": "40eeb081-ec84-4cab-b0de-9abe3f01e451"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2033338580406,
+                    25.9308104346311
+                ]
+            },
+            "properties": {
+                "OBJECTID": 11,
+                "FOLIO": "0721120080010",
+                "NAME": "Jackson North Medical Center",
+                "ADDRESS": "160 NW 170 Street",
+                "CITY": "NORTH MIAMI BEACH",
+                "ZIPCODE": 33169,
+                "PHONE": "3056511100",
+                "BED": 382,
+                "EROOM": "Y",
+                "LAT": 25.93081,
+                "LON": -80.20333,
+                "POINT_X": 917991.062642246,
+                "POINT_Y": 581337.624439821,
+                "GlobalID": "fd6ad9d1-7655-4846-81ec-ec6d041b5569"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4299875071024,
+                    25.4800195779834
+                ]
+            },
+            "properties": {
+                "OBJECTID": 12,
+                "FOLIO": null,
+                "NAME": "Homestead Hospital",
+                "ADDRESS": "975 BAPTIST WAY",
+                "CITY": "Homestead",
+                "ZIPCODE": 33033,
+                "PHONE": "7862438000",
+                "BED": 147,
+                "EROOM": "Y",
+                "LAT": 25.48001,
+                "LON": -80.42998,
+                "POINT_X": 844206.780421078,
+                "POINT_Y": 417108.259329654,
+                "GlobalID": "e18b0fc2-7ac9-4dfd-94d0-20bf9e4409d7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.351257191885,
+                    25.825647814534
+                ]
+            },
+            "properties": {
+                "OBJECTID": 13,
+                "FOLIO": "3530210010315",
+                "NAME": "Baptist Health Hospital at Doral",
+                "ADDRESS": "9500 NW 58 Street",
+                "CITY": "Doral",
+                "ZIPCODE": 33178,
+                "PHONE": "7865946911",
+                "BED": 30,
+                "EROOM": "Y",
+                "LAT": 25.82564,
+                "LON": -80.35125,
+                "POINT_X": 869563.686400078,
+                "POINT_Y": 542846.641710654,
+                "GlobalID": "36e0da08-29c6-4cbe-be52-9335073b2836"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3216580994303,
+                    25.8603524258159
+                ]
+            },
+            "properties": {
+                "OBJECTID": 14,
+                "FOLIO": "0430021650020",
+                "NAME": "Southern Winds Hospital",
+                "ADDRESS": "4225 West 20 Avenue",
+                "CITY": "HIALEAH",
+                "ZIPCODE": 33012,
+                "PHONE": "3055589700",
+                "BED": 72,
+                "EROOM": "N",
+                "LAT": 25.86035,
+                "LON": -80.32166,
+                "POINT_X": 879235.125062414,
+                "POINT_Y": 555509.624914825,
+                "GlobalID": "5bfe8c75-b2b7-49ee-8152-1adef482fa44"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3231050329264,
+                    25.7998822190243
+                ]
+            },
+            "properties": {
+                "OBJECTID": 15,
+                "FOLIO": "3530270370010",
+                "NAME": "Jackson West Medical Center ",
+                "ADDRESS": "2801 NW 79 AVE ",
+                "CITY": "DORAL",
+                "ZIPCODE": 33122,
+                "PHONE": "7864661111",
+                "BED": 98,
+                "EROOM": "Y",
+                "LAT": 25.79988,
+                "LON": -80.3231,
+                "POINT_X": 878872.437467579,
+                "POINT_Y": 533528.499913909,
+                "GlobalID": "16677085-de1d-4b24-bd04-73ea9510c848"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2107578984679,
+                    25.7910173118626
+                ]
+            },
+            "properties": {
+                "OBJECTID": 16,
+                "FOLIO": "0131350650010",
+                "NAME": "Bascom Palmer Eye Institute ",
+                "ADDRESS": "900 NW 17 Street",
+                "CITY": "MIAMI",
+                "ZIPCODE": 33136,
+                "PHONE": "3053266000",
+                "BED": 100,
+                "EROOM": "Y",
+                "LAT": 25.79101,
+                "LON": -80.21076,
+                "POINT_X": 915856.374982495,
+                "POINT_Y": 530512.250040904,
+                "GlobalID": "38a0a9c2-5688-46b6-ac2e-2c4f1225523f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2937438862241,
+                    25.7026625806271
+                ]
+            },
+            "properties": {
+                "OBJECTID": 17,
+                "FOLIO": "0940360400130",
+                "NAME": "South Miami Hospital",
+                "ADDRESS": "6200 SW 73 Street",
+                "CITY": "SOUTH MIAMI",
+                "ZIPCODE": 33143,
+                "PHONE": "7866624200",
+                "BED": 467,
+                "EROOM": "Y",
+                "LAT": 25.70266,
+                "LON": -80.29374,
+                "POINT_X": 888722.076888997,
+                "POINT_Y": 498243.770942822,
+                "GlobalID": "9fbd352d-1ae0-4c9d-9340-ef729013ef7a"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2156434077002,
+                    25.7883502792286
+                ]
+            },
+            "properties": {
+                "OBJECTID": 18,
+                "FOLIO": "0131350450030",
+                "NAME": "UMHC UHealth Tower ",
+                "ADDRESS": "1400 NW 12 Avenue",
+                "CITY": "MIAMI",
+                "ZIPCODE": 33136,
+                "PHONE": "3056895151",
+                "BED": 568,
+                "EROOM": "Y",
+                "LAT": 25.78835,
+                "LON": -80.21564,
+                "POINT_X": 914254.579629663,
+                "POINT_Y": 529533.268403076,
+                "GlobalID": "d0659857-8b42-4ff1-90c3-1adb5b633414"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3125394366268,
+                    25.8666484449107
+                ]
+            },
+            "properties": {
+                "OBJECTID": 19,
+                "FOLIO": null,
+                "NAME": "Larkin Community Hospital Palm Springs Campus",
+                "ADDRESS": "1475 W 49 Street",
+                "CITY": "Hialeah",
+                "ZIPCODE": 33012,
+                "PHONE": "3055582500",
+                "BED": 247,
+                "EROOM": "Y",
+                "LAT": 25.86664,
+                "LON": -80.31254,
+                "POINT_X": 882221.83824908,
+                "POINT_Y": 557813.597340994,
+                "GlobalID": "c2c4c3c9-9aa6-4a55-ab93-283e73c54c4c"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3849066029028,
+                    25.7318998856488
+                ]
+            },
+            "properties": {
+                "OBJECTID": 20,
+                "FOLIO": null,
+                "NAME": "HCA Florida Kendall Hospital ",
+                "ADDRESS": "11750 BIRD RD",
+                "CITY": "Miami",
+                "ZIPCODE": 33175,
+                "PHONE": "3052233000",
+                "BED": 447,
+                "EROOM": "Y",
+                "LAT": 25.7319,
+                "LON": -80.3849,
+                "POINT_X": 858653.936894163,
+                "POINT_Y": 508720.070528239,
+                "GlobalID": "3d0179c7-c828-4a1f-8f02-22507216166a"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2166484203822,
+                    25.7419753231934
+                ]
+            },
+            "properties": {
+                "OBJECTID": 21,
+                "FOLIO": "0141140270020",
+                "NAME": "HCA Florida Mercy Hospital",
+                "ADDRESS": "3663 South Miami Avenue",
+                "CITY": "Miami",
+                "ZIPCODE": 33133,
+                "PHONE": "3058544400",
+                "BED": 488,
+                "EROOM": "Y",
+                "LAT": 25.74197,
+                "LON": -80.21665,
+                "POINT_X": 914024.05417208,
+                "POINT_Y": 512675.627249658,
+                "GlobalID": "9802d28f-db0c-4986-9239-b3b5f9a2b433"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1382126447801,
+                    25.8154555572341
+                ]
+            },
+            "properties": {
+                "OBJECTID": 22,
+                "FOLIO": null,
+                "NAME": "MOUNT SINAI MEDICAL CENTER OF FLORIDA",
+                "ADDRESS": "4300 Alton Road",
+                "CITY": "MIAMI BEACH",
+                "ZIPCODE": 33140,
+                "PHONE": "3056742121",
+                "BED": 955,
+                "EROOM": "Y",
+                "LAT": 25.81545,
+                "LON": -80.13821,
+                "POINT_X": 939669.26567683,
+                "POINT_Y": 539544.503629908,
+                "GlobalID": "96f379b5-8eec-4095-81f1-069ed46d1185"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3389467924191,
+                    25.6844503931854
+                ]
+            },
+            "properties": {
+                "OBJECTID": 23,
+                "FOLIO": "3050040000060",
+                "NAME": "Baptist Hospital",
+                "ADDRESS": "8900 North Kendall Drive",
+                "CITY": "Miami",
+                "ZIPCODE": 33176,
+                "PHONE": "7865961960",
+                "BED": 886,
+                "EROOM": "Y",
+                "LAT": 25.68445,
+                "LON": -80.33894,
+                "POINT_X": 873870.447471578,
+                "POINT_Y": 491547.423115075,
+                "GlobalID": "be640ca3-003f-492e-8c35-8a38e4bf64ab"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3429690503078,
+                    25.8837079492783
+                ]
+            },
+            "properties": {
+                "OBJECTID": 24,
+                "FOLIO": "2720330630010",
+                "NAME": "ST Catherine''s West Rehabilitation Hospital",
+                "ADDRESS": "8850 NW 122ND Street",
+                "CITY": "Hialeah Gardens",
+                "ZIPCODE": 33018,
+                "PHONE": "3053517181",
+                "BED": 40,
+                "EROOM": "N",
+                "LAT": 25.8837,
+                "LON": -80.34297,
+                "POINT_X": 872184.508914329,
+                "POINT_Y": 563962.892128989,
+                "GlobalID": "3e7d5d50-60b4-468a-9137-e1ac914c0224"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1453380861053,
+                    25.970045440637
+                ]
+            },
+            "properties": {
+                "OBJECTID": 25,
+                "FOLIO": "2812340010340",
+                "NAME": "HCA Florida Aventura Hospital ",
+                "ADDRESS": "20900 BISCAYNE BLVD",
+                "CITY": "Aventura",
+                "ZIPCODE": 33180,
+                "PHONE": "3056827000",
+                "BED": 493,
+                "EROOM": "Y",
+                "LAT": 25.97004,
+                "LON": -80.14534,
+                "POINT_X": 936959.062435828,
+                "POINT_Y": 595718.812540904,
+                "GlobalID": "f35ac915-c350-40c6-a230-5807fd085b7f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3265447090988,
+                    25.8859515617032
+                ]
+            },
+            "properties": {
+                "OBJECTID": 26,
+                "FOLIO": "0420270010610",
+                "NAME": "STEWARD PALMETTO GENERAL HOSPITAL",
+                "ADDRESS": "2001 W 68TH ST",
+                "CITY": "HIALEAH",
+                "ZIPCODE": 33016,
+                "PHONE": "3058235000",
+                "BED": 368,
+                "EROOM": "Y",
+                "LAT": 25.88595,
+                "LON": -80.32654,
+                "POINT_X": 877580.428568661,
+                "POINT_Y": 564805.739524655,
+                "GlobalID": "e0a8029c-d9d1-4abf-b4fe-e507fc02b359"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2546532366983,
+                    25.7446665938399
+                ]
+            },
+            "properties": {
+                "OBJECTID": 27,
+                "FOLIO": null,
+                "NAME": "Steward Coral Gables Hospital",
+                "ADDRESS": "3100 S DOUGLAS RD",
+                "CITY": "Coral Gables",
+                "ZIPCODE": 33134,
+                "PHONE": "3054458461",
+                "BED": 245,
+                "EROOM": "Y",
+                "LAT": 25.74466,
+                "LON": -80.25465,
+                "POINT_X": 901507.999151744,
+                "POINT_Y": 513581.311461903,
+                "GlobalID": "b90c8376-a73a-4168-af24-b30b0afb77aa"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1921844906553,
+                    25.8231070766125
+                ]
+            },
+            "properties": {
+                "OBJECTID": 28,
+                "FOLIO": "0131240430020",
+                "NAME": "Miami Jewish Health Systems",
+                "ADDRESS": "5200 NE 2nd Ave",
+                "CITY": "MIAMI",
+                "ZIPCODE": 33137,
+                "PHONE": "3057518626",
+                "BED": 462,
+                "EROOM": "N",
+                "LAT": 25.8231,
+                "LON": -80.19218,
+                "POINT_X": 921896.343217496,
+                "POINT_Y": 542212.927098826,
+                "GlobalID": "f583ffa2-9076-4386-b385-20b38a8820a9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3176402837108,
+                    25.7474549766435
+                ]
+            },
+            "properties": {
+                "OBJECTID": 29,
+                "FOLIO": "3040140150010",
+                "NAME": "Westchester General Hosptial, DBA Keralty Hospital",
+                "ADDRESS": "2500 SW 75th Avenue",
+                "CITY": "Miami",
+                "ZIPCODE": 33155,
+                "PHONE": "3052645252",
+                "BED": 125,
+                "EROOM": "Y",
+                "LAT": 25.74745,
+                "LON": -80.31764,
+                "POINT_X": 880769.12494716,
+                "POINT_Y": 514482.56294024,
+                "GlobalID": "feac85d5-44f1-44c3-a14e-d868db617a97"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1772945195623,
+                    25.8898298479156
+                ]
+            },
+            "properties": {
+                "OBJECTID": 30,
+                "FOLIO": null,
+                "NAME": "St. Catherines Rehabilitation Hospital",
+                "ADDRESS": "1050 NE 125 Street",
+                "CITY": "NORTH MIAMI",
+                "ZIPCODE": 33161,
+                "PHONE": "3053571735",
+                "BED": 234,
+                "EROOM": "N",
+                "LAT": 25.88983,
+                "LON": -80.17729,
+                "POINT_X": 926642.687071245,
+                "POINT_Y": 566495.12426924,
+                "GlobalID": "4e39656d-c1f8-47e9-a735-3a871a31d95d"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2684061167114,
+                    25.8454124690045
+                ]
+            },
+            "properties": {
+                "OBJECTID": 31,
+                "FOLIO": "0431080011790",
+                "NAME": "Steward Hialeah Hospital",
+                "ADDRESS": "651 E 25th Street",
+                "CITY": "HIALEAH",
+                "ZIPCODE": 33013,
+                "PHONE": "3058354503",
+                "BED": 381,
+                "EROOM": "Y",
+                "LAT": 25.84541,
+                "LON": -80.2684,
+                "POINT_X": 896777.437418662,
+                "POINT_Y": 550173.437424488,
+                "GlobalID": "c289bbd2-4724-41b8-a5cc-c3b774bc3799"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2145846766626,
+                    25.7887979717793
+                ]
+            },
+            "properties": {
+                "OBJECTID": 32,
+                "FOLIO": "0131350380010",
+                "NAME": "UMHC Sylvester Comprehensive Cancer Center ",
+                "ADDRESS": "1475 NW 12 Avenue",
+                "CITY": "MIAMI",
+                "ZIPCODE": 33136,
+                "PHONE": "3052438138",
+                "BED": 40,
+                "EROOM": "N",
+                "LAT": 25.78879,
+                "LON": -80.21458,
+                "POINT_X": 914601.990680244,
+                "POINT_Y": 529698.065973736,
+                "GlobalID": "867dd1aa-390a-469b-830a-cd9f091f8516"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2120743256179,
+                    25.7911243420468
+                ]
+            },
+            "properties": {
+                "OBJECTID": 33,
+                "FOLIO": "0131350030040",
+                "NAME": "Jackson Memorial Hospital",
+                "ADDRESS": "1611 NW 12 Avenue",
+                "CITY": "MIAMI",
+                "ZIPCODE": 33136,
+                "PHONE": "3055851111",
+                "BED": 1567,
+                "EROOM": "Y",
+                "LAT": 25.79112,
+                "LON": -80.21207,
+                "POINT_X": 915422.973946411,
+                "POINT_Y": 530548.558039159,
+                "GlobalID": "977dcd7b-62b6-4e8f-9536-6899f01337fb"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2109968808763,
+                    25.7770326110001
+                ]
+            },
+            "properties": {
+                "OBJECTID": 34,
+                "FOLIO": "0141020410001",
+                "NAME": "Select Specialty Hospital",
+                "ADDRESS": "955 NW 3 St  Suite #104",
+                "CITY": "MIAMI",
+                "ZIPCODE": 33128,
+                "PHONE": "3054165700",
+                "BED": 47,
+                "EROOM": "N",
+                "LAT": 25.77703,
+                "LON": -80.21099,
+                "POINT_X": 915808.187086746,
+                "POINT_Y": 525428.81270124,
+                "GlobalID": "3e8d0137-493f-4559-a280-993ab343fb6c"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3316452220094,
+                    25.9003411152439
+                ]
+            },
+            "properties": {
+                "OBJECTID": 35,
+                "FOLIO": null,
+                "NAME": "Select Specialty Hospital - Miami Lakes, Inc.",
+                "ADDRESS": "14001 NW 82 Ave.",
+                "CITY": "MIAMI LAKES",
+                "ZIPCODE": 33016,
+                "PHONE": "7866099200",
+                "BED": 60,
+                "EROOM": "N",
+                "LAT": 25.90034,
+                "LON": -80.33164,
+                "POINT_X": 875876.834862996,
+                "POINT_Y": 570027.272716738,
+                "GlobalID": "a215d8fd-b9ab-41ad-a612-1a301daf23f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.217121912487,
+                    25.7919687420818
+                ]
+            },
+            "properties": {
+                "OBJECTID": 36,
+                "FOLIO": "0131350000160",
+                "NAME": "Department of Veteran's Affairs Medical Center",
+                "ADDRESS": "1201 NW 16th Street",
+                "CITY": "Miami",
+                "ZIPCODE": 33125,
+                "PHONE": "3055757000",
+                "BED": 401,
+                "EROOM": "Y",
+                "LAT": 25.79196,
+                "LON": -80.21712,
+                "POINT_X": 913760.249909662,
+                "POINT_Y": 530845.562366404,
+                "GlobalID": "a80f8b6d-4a6f-4ee7-a274-034de9a0f460"
+            }
+        }
+    ]
+}
